@@ -14,6 +14,7 @@ class ComposerStaticInitc497fd016541ce02c0a254c64f890211
         'B' => 
         array (
             'Broadway\\UuidGenerator\\' => 23,
+            'Broadway\\Saga\\' => 14,
         ),
         'A' => 
         array (
@@ -25,6 +26,10 @@ class ComposerStaticInitc497fd016541ce02c0a254c64f890211
         'Broadway\\UuidGenerator\\' => 
         array (
             0 => __DIR__ . '/..' . '/broadway/uuid-generator/src/Broadway/UuidGenerator',
+        ),
+        'Broadway\\Saga\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/broadway/broadway-saga/src',
         ),
         'Assert\\' => 
         array (

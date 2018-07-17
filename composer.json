@@ -1,5 +1,6 @@
 {
     "require": {
-        "broadway/broadway": "^2.0"
+        "broadway/broadway": "^2.0",
+        "broadway/broadway-saga": "^0.5.0"
     }
 }

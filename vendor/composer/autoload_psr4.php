@@ -7,5 +7,6 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Broadway\\UuidGenerator\\' => array($vendorDir . '/broadway/uuid-generator/src/Broadway/UuidGenerator'),
+    'Broadway\\Saga\\' => array($vendorDir . '/broadway/broadway-saga/src'),
     'Assert\\' => array($vendorDir . '/beberlei/assert/lib/Assert'),
 );
