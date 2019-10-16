@@ -14,3 +14,17 @@ Per controllare se l'applicazione sta funzionando correttamente:
 
 Dovresti vedere il messaggio:
 - `ID : 234-ae2, First Name: mario, Last Name: rossi`
+
+# Documentazione Broadway
+
+## Documentazione generale
+https://broadway.github.io/broadway/
+
+## Esempio di event handling
+https://github.com/broadway/broadway/blob/master/examples/event-handling/event-handling.php
+
+## Esempio di command handling
+https://github.com/broadway/broadway/blob/master/examples/command-handling/command-handling.php
+
+## Altri esempi
+https://github.com/broadway/broadway/tree/master/examples
